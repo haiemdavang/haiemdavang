@@ -1,7 +1,7 @@
 # 👋 Lê Hải
-**Intern Java Backend Developer**
+**Java Backend Developer**
 
-## 🚀 Skills
+##  Skills
 - Java,
 - MySQL, Redis  
 - ReactJS, TypeScript  
